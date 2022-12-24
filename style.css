@@ -359,7 +359,7 @@ nav ul li a:hover {
 
 @media (max-width: 320px) {
   .santa-with-tree-img {
-    width: 8em;
+    width: 7em;
     right: 1%;
     bottom: 5%;
   }
